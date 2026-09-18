@@ -23,14 +23,19 @@ Built with **Python, Transformers (Flan‑T5), and REST APIs**.
 
 ---
 
-## How to Run
-1. Start your backend APIs (Flask server on `localhost:5000`).
-2. Install dependencies:
+## ▶️ How to Run
+
+ **Install dependencies**  
    ```bash
-   pip install requests transformers
+   pip install -r requirements.txt
+```
+ ---
 
-   ---
+## Run the Flask Server
+python api.py
 
-  ## Run the code
-  python agent.py
+ ---
+
+## Run the agent
+python agent.py
 
