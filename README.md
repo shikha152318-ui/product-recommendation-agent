@@ -1,4 +1,4 @@
-# Product Recommendation + Policy Agent
+# Product Recommendation Agent
 
 A simple AI‑powered agent that recommends products and fetches store policies based on user queries.  
 Built with **Python, Transformers (Flan‑T5), and REST APIs**.
